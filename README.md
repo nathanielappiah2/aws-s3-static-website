@@ -76,3 +76,11 @@ User Browser → HTTP → AWS S3 Bucket → index.html
 
 Career transition from water infrastructure to cloud engineering.  
 Building hands-on projects to develop real cloud skills.
+
+## Screenshots
+
+### Static website hosted on Amazon S3
+![S3 Static Website](screenshots/IMG_5476.jpg)
+
+### 404 error encountered during setup
+![404 Error](screenshots/IMG_5478.jpg)

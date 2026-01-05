@@ -5,6 +5,7 @@ Optimize EC2 costs by right-sizing an overprovisioned instance.
 
 ### Business Context
 Monitoring showed the EC2 instance was consistently underutilized,
+
 using ~10% CPU and ~300MB of 1GB RAM. The instance was larger than required
 for the workload.
 
@@ -28,9 +29,8 @@ environments, changes should be scheduled during maintenance windows.
 
 ## Evidence
 
-**Instance type changed to t2.nano**
-![EC2 instance type t2.nano](screenshots/uc2/IMG_5509.heic)
+### Instance type changed to t2.nano
+![Instance type changed to t2.nano](./screenshots/uc2/IMG_5509.png)
 
-**Instance running successfully**
-![EC2 instance running](screenshots/uc2/IMG_5512.HEIC)
-
+### Instance running successfully
+![Instance running successfully](./screenshots/uc2/IMG_5512.png)

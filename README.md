@@ -2,7 +2,7 @@
 
 This project demonstrates how to host a simple static website using Amazon S3.
 
-It is my first hands-on AWS project, focused on understanding how cloud services actually work in practice rather than just learning theory.
+It is my first hands on AWS project, focused on understanding how cloud services actually work in practice rather than just learning theory.
 
 ---
 
